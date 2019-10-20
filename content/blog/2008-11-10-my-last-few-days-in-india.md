@@ -4,12 +4,7 @@ author: sathya
 type: post
 date: 2008-11-10T18:26:38+00:00
 url: /2008/11/10/my-last-few-days-in-india/
-arkayne-cache-post:
-  - |
-    
-    
-    
-    
+
 arkayne-time-post:
   - "1325790717"
 categories:

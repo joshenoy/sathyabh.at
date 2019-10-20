@@ -4,12 +4,7 @@ author: sathya
 type: post
 date: 2008-03-30T12:35:44+00:00
 url: /2008/03/30/evdo-service-to-start-in-chennai-soon/
-arkayne-cache-post:
-  - |
-    
-    
-    
-    
+
 arkayne-time-post:
   - "1325708050"
 categories:

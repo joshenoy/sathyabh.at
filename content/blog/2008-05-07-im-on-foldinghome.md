@@ -4,12 +4,7 @@ author: sathya
 type: post
 date: 2008-05-07T18:29:18+00:00
 url: /2008/05/07/im-on-foldinghome/
-arkayne-cache-post:
-  - |
-    
-    
-    
-    
+
 arkayne-time-post:
   - "1325790201"
 categories:

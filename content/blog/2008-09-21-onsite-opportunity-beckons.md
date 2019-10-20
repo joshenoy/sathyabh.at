@@ -4,12 +4,7 @@ author: sathya
 type: post
 date: 2008-09-20T18:37:59+00:00
 url: /2008/09/21/onsite-opportunity-beckons/
-arkayne-cache-post:
-  - |
-    
-    
-    
-    
+
 arkayne-time-post:
   - "1325781051"
 categories:

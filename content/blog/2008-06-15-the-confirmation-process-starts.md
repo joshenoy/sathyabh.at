@@ -4,12 +4,7 @@ author: sathya
 type: post
 date: 2008-06-15T17:48:38+00:00
 url: /2008/06/15/the-confirmation-process-starts/
-arkayne-cache-post:
-  - |
-    
-    
-    
-    
+
 arkayne-time-post:
   - "1325730475"
 categories:

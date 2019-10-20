@@ -5,12 +5,7 @@ type: post
 date: 2008-09-30T15:32:49+00:00
 draft: true
 url: /?p=142
-arkayne-cache-post:
-  - |
-    
-    
-arkayne-time-post:
-  - "1315866686"
+
 
 categories:
   - Events

@@ -4,12 +4,7 @@ author: sathya
 type: post
 date: 2008-05-27T13:03:01+00:00
 url: /2008/05/27/dress-up-gmail-with-skins-and-improve-the-functionality/
-arkayne-cache-post:
-  - |
-    
-    
-    
-    
+
 arkayne-time-post:
   - "1325747375"
 categories:

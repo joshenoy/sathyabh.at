@@ -5,12 +5,7 @@ type: post
 date: 2010-04-06T00:49:32+00:00
 url: /2010/04/06/a-snapshot-of-me-from-the-past/
 
-arkayne-cache-post:
-  - |
-    
-    
-    
-    
+
 arkayne-time-post:
   - "1325661498"
 categories:

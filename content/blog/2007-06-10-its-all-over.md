@@ -5,12 +5,7 @@ type: post
 date: 2007-06-10T13:46:24+00:00
 url: /2007/06/10/its-all-over/
 
-arkayne-cache-post:
-  - |
-    
-    
-    
-    
+
 arkayne-time-post:
   - "1325716424"
 categories:

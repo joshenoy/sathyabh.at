@@ -4,12 +4,7 @@ author: sathya
 type: post
 date: 2008-05-22T13:00:21+00:00
 url: /2008/05/22/my-bt-headset-is-here/
-arkayne-cache-post:
-  - |
-    
-    
-    
-    
+
 arkayne-time-post:
   - "1325709815"
 categories:

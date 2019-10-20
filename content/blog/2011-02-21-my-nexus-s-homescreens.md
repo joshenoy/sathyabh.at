@@ -5,12 +5,7 @@ type: post
 date: 2011-02-21T17:20:38+00:00
 url: /2011/02/21/my-nexus-s-homescreens/
 
-arkayne-cache-post:
-  - |
-    
-    
-    
-    
+
 arkayne-time-post:
   - "1325779293"
 categories:

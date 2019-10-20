@@ -5,12 +5,7 @@ type: post
 date: 2010-10-11T22:06:02+00:00
 url: /2010/10/12/creating-and-editing-parameterized-queries-in-excel-2007/
 
-arkayne-cache-post:
-  - |
-    
-    
-    
-    
+
 arkayne-time-post:
   - "1325787726"
 categories:

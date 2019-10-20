@@ -4,12 +4,7 @@ author: sathya
 type: post
 date: 2008-03-13T17:18:30+00:00
 url: /2008/03/13/homecoming-is-herealmost/
-arkayne-cache-post:
-  - |
-    
-    
-    
-    
+
 arkayne-time-post:
   - "1325727982"
 categories:

@@ -4,12 +4,7 @@ author: sathya
 type: post
 date: 2008-05-24T06:27:57+00:00
 url: /2008/05/24/think-twice-before-you-use-a-cheap-psu/
-arkayne-cache-post:
-  - |
-    
-    
-    
-    
+
 arkayne-time-post:
   - "1325731949"
 categories:

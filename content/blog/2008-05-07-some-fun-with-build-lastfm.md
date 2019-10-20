@@ -4,12 +4,7 @@ author: sathya
 type: post
 date: 2008-05-07T09:59:31+00:00
 url: /2008/05/07/some-fun-with-build-lastfm/
-arkayne-cache-post:
-  - |
-    
-    
-    
-    
+
 arkayne-time-post:
   - "1325742898"
 categories:

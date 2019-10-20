@@ -4,12 +4,7 @@ author: sathya
 type: post
 date: 2008-12-21T07:55:06+00:00
 url: /2008/12/21/a-visit-to-north-by-northwest/
-arkayne-cache-post:
-  - |
-    
-    
-    
-    
+
 arkayne-time-post:
   - "1325730310"
 categories:

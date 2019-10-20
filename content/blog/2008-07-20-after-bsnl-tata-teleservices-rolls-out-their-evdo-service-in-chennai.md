@@ -4,12 +4,7 @@ author: sathya
 type: post
 date: 2008-07-20T17:54:40+00:00
 url: /2008/07/20/after-bsnl-tata-teleservices-rolls-out-their-evdo-service-in-chennai/
-arkayne-cache-post:
-  - |
-    
-    
-    
-    
+
 arkayne-time-post:
   - "1325765996"
 categories:

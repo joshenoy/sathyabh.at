@@ -4,12 +4,7 @@ author: sathya
 type: post
 date: 2009-02-21T20:25:15+00:00
 url: /2009/02/22/satellite/
-arkayne-cache-post:
-  - |
-    
-    
-    
-    
+
 arkayne-time-post:
   - "1325698870"
 categories:

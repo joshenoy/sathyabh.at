@@ -4,12 +4,7 @@ author: sathya
 type: post
 date: 2008-06-09T09:06:56+00:00
 url: /2008/06/09/animator-vs-animation-the-chosen-one-flash-animation/
-arkayne-cache-post:
-  - |
-    
-    
-    
-    
+
 arkayne-time-post:
   - "1325718851"
 categories:

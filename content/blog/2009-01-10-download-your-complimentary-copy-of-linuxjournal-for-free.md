@@ -4,12 +4,7 @@ author: sathya
 type: post
 date: 2009-01-10T01:34:10+00:00
 url: /2009/01/10/download-your-complimentary-copy-of-linuxjournal-for-free/
-arkayne-cache-post:
-  - |
-    
-    
-    
-    
+
 arkayne-time-post:
   - "1325613120"
 categories:

@@ -4,12 +4,7 @@ author: sathya
 type: post
 date: 2008-01-27T15:51:28+00:00
 url: /2008/01/27/the-week-that-was/
-arkayne-cache-post:
-  - |
-    
-    
-    
-    
+
 arkayne-time-post:
   - "1325693317"
 categories:

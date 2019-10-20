@@ -5,12 +5,7 @@ type: post
 date: 2011-08-07T07:45:43+00:00
 url: /2011/08/07/of-dead-hard-drives-stolen-phones-icici-bank-dumbassery/
 
-arkayne-cache-post:
-  - |
-    
-    
-    
-    
+
 arkayne-time-post:
   - "1325755046"
 categories:

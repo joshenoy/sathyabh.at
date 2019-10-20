@@ -4,12 +4,7 @@ author: sathya
 type: post
 date: 2008-05-14T09:28:00+00:00
 url: /2008/05/14/who-were-you-in-your-past-life/
-arkayne-cache-post:
-  - |
-    
-    
-    
-    
+
 arkayne-time-post:
   - "1325726212"
 categories:

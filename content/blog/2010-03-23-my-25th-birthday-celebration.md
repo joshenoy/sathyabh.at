@@ -5,12 +5,7 @@ type: post
 date: 2010-03-22T21:03:34+00:00
 url: /2010/03/23/my-25th-birthday-celebration/
 
-arkayne-cache-post:
-  - |
-    
-    
-    
-    
+
 arkayne-time-post:
   - "1325760922"
 categories:

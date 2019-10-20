@@ -4,12 +4,7 @@ author: sathya
 type: post
 date: 2008-06-22T16:10:13+00:00
 url: /2008/06/22/digia-web-finger-touch-mobile-web-browser-beta-now-available-for-download/
-arkayne-cache-post:
-  - |
-    
-    
-    
-    
+
 arkayne-time-post:
   - "1325773976"
 categories:

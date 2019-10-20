@@ -4,12 +4,7 @@ author: sathya
 type: post
 date: 2008-05-27T16:08:53+00:00
 url: /2008/05/27/ipl-t20-i-came-i-saw-i-had-a-blast/
-arkayne-cache-post:
-  - |
-    
-    
-    
-    
+
 arkayne-time-post:
   - "1325742914"
 categories:

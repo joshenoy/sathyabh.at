@@ -4,12 +4,7 @@ author: sathya
 type: post
 date: 2008-06-08T04:30:11+00:00
 url: /2008/06/08/me-man-of-many-faces-had-plastic-surgery/
-arkayne-cache-post:
-  - |
-    
-    
-    
-    
+
 arkayne-time-post:
   - "1325787176"
 categories:

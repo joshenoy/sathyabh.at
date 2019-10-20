@@ -6,12 +6,7 @@ date: 2009-07-13T02:55:31+00:00
 url: /2009/07/13/celebrating-2-years/
 aktt_notify_twitter:
   - 'no'
-arkayne-cache-post:
-  - |
-    
-    
-    
-    
+
 arkayne-time-post:
   - "1325713097"
 categories:

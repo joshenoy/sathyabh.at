@@ -4,12 +4,7 @@ author: sathya
 type: post
 date: 2009-09-28T18:45:29+00:00
 url: /2009/09/29/back-in-india/
-arkayne-cache-post:
-  - |
-    
-    
-    
-    
+
 arkayne-time-post:
   - "1325729558"
 categories:

@@ -4,12 +4,7 @@ author: sathya
 type: post
 date: 2008-01-13T07:15:21+00:00
 url: /2008/01/13/my-room-gets-raided/
-arkayne-cache-post:
-  - |
-    
-    
-    
-    
+
 arkayne-time-post:
   - "1325767183"
 categories:

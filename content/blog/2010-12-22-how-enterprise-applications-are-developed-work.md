@@ -6,12 +6,7 @@ type: post
 date: 2010-12-21T19:55:27+00:00
 url: /2010/12/22/how-enterprise-applications-are-developed-work/
 
-arkayne-cache-post:
-  - |
-    
-    
-    
-    
+
 arkayne-time-post:
   - "1325783420"
 categories:

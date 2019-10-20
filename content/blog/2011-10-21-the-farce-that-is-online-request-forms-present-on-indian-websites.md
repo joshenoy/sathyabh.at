@@ -5,12 +5,7 @@ type: post
 date: 2011-10-21T09:58:13+00:00
 url: /2011/10/21/the-farce-that-is-online-request-forms-present-on-indian-websites/
 
-arkayne-cache-post:
-  - |
-    
-    
-arkayne-time-post:
-  - "1325781038"
+
 categories:
   - Views
 tags:

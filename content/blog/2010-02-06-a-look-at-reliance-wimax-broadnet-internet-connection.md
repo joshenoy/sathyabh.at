@@ -5,12 +5,7 @@ type: post
 date: 2010-02-05T23:14:52+00:00
 url: /2010/02/06/a-look-at-reliance-wimax-broadnet-internet-connection/
 
-arkayne-cache-post:
-  - |
-    
-    
-    
-    
+
 arkayne-time-post:
   - "1325752736"
 categories:

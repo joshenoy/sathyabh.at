@@ -4,12 +4,7 @@ author: sathya
 type: post
 date: 2008-05-29T18:35:44+00:00
 url: /2008/05/30/youve-been-tagged/
-arkayne-cache-post:
-  - |
-    
-    
-    
-    
+
 arkayne-time-post:
   - "1325784899"
 categories:

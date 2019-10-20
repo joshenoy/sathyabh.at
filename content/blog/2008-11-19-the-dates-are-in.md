@@ -4,12 +4,7 @@ author: sathya
 type: post
 date: 2008-11-19T11:20:33+00:00
 url: /2008/11/19/the-dates-are-in/
-arkayne-cache-post:
-  - |
-    
-    
-    
-    
+
 arkayne-time-post:
   - "1325675924"
 categories:

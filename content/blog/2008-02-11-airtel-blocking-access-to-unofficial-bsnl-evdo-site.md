@@ -4,12 +4,7 @@ author: sathya
 type: post
 date: 2008-02-11T17:49:36+00:00
 url: /2008/02/11/airtel-blocking-access-to-unofficial-bsnl-evdo-site/
-arkayne-cache-post:
-  - |
-    
-    
-    
-    
+
 arkayne-time-post:
   - "1325787159"
 categories:

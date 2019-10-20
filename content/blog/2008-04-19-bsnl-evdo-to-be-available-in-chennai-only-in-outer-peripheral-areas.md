@@ -4,12 +4,7 @@ author: sathya
 type: post
 date: 2008-04-19T12:48:00+00:00
 url: /2008/04/19/bsnl-evdo-to-be-available-in-chennai-only-in-outer-peripheral-areas/
-arkayne-cache-post:
-  - |
-    
-    
-    
-    
+
 arkayne-time-post:
   - "1325775482"
 categories:

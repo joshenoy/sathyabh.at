@@ -6,12 +6,7 @@ date: 2009-06-27T21:46:05+00:00
 url: /2009/06/28/convert-your-windows-xpvista-ordinary-taskbar-into-windows-7-superbar-and-get-aeropeek-in-windows-xp-vista/
 aktt_notify_twitter:
   - 'no'
-arkayne-cache-post:
-  - |
-    
-    
-    
-    
+
 arkayne-time-post:
   - "1325786491"
 categories:

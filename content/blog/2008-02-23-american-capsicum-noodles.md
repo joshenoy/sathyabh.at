@@ -4,12 +4,7 @@ author: sathya
 type: post
 date: 2008-02-22T19:22:24+00:00
 url: /2008/02/23/american-capsicum-noodles/
-arkayne-cache-post:
-  - |
-    
-    
-    
-    
+
 arkayne-time-post:
   - "1325630955"
 categories:

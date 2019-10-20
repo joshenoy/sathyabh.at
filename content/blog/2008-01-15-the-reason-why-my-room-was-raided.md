@@ -4,12 +4,7 @@ author: sathya
 type: post
 date: 2008-01-15T17:56:26+00:00
 url: /2008/01/15/the-reason-why-my-room-was-raided/
-arkayne-cache-post:
-  - |
-    
-    
-    
-    
+
 arkayne-time-post:
   - "1325767131"
 categories:

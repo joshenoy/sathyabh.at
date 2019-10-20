@@ -4,12 +4,7 @@ author: sathya
 type: post
 date: 2008-11-27T20:25:58+00:00
 url: /2008/11/28/you-know-youre-a-mangimangalorean-when/
-arkayne-cache-post:
-  - |
-    
-    
-    
-    
+
 arkayne-time-post:
   - "1325780108"
 categories:

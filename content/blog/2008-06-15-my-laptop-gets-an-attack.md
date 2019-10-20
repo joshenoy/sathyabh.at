@@ -4,12 +4,7 @@ author: sathya
 type: post
 date: 2008-06-15T08:19:21+00:00
 url: /2008/06/15/my-laptop-gets-an-attack/
-arkayne-cache-post:
-  - |
-    
-    
-    
-    
+
 arkayne-time-post:
   - "1325534727"
 categories:

@@ -4,12 +4,7 @@ author: sathya
 type: post
 date: 2008-02-17T17:56:45+00:00
 url: /2008/02/17/of-handling-multiple-projects-and-failed-evdo-connections/
-arkayne-cache-post:
-  - |
-    
-    
-    
-    
+
 arkayne-time-post:
   - "1325640490"
 categories:

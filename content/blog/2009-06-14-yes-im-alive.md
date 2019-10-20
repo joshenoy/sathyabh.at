@@ -6,12 +6,7 @@ date: 2009-06-14T03:59:12+00:00
 url: /2009/06/14/yes-im-alive/
 aktt_notify_twitter:
   - 'no'
-arkayne-cache-post:
-  - |
-    
-    
-    
-    
+
 arkayne-time-post:
   - "1325772664"
 categories:

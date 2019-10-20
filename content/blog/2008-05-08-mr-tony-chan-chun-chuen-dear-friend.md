@@ -4,12 +4,7 @@ author: sathya
 type: post
 date: 2008-05-08T15:55:35+00:00
 url: /2008/05/08/mr-tony-chan-chun-chuen-dear-friend/
-arkayne-cache-post:
-  - |
-    
-    
-    
-    
+
 arkayne-time-post:
   - "1325738473"
 categories:

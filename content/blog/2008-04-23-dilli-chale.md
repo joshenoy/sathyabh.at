@@ -4,12 +4,7 @@ author: sathya
 type: post
 date: 2008-04-23T06:39:49+00:00
 url: /2008/04/23/dilli-chale/
-arkayne-cache-post:
-  - |
-    
-    
-    
-    
+
 arkayne-time-post:
   - "1325789797"
 categories:

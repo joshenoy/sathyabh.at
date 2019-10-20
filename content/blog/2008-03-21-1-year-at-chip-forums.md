@@ -4,12 +4,7 @@ author: sathya
 type: post
 date: 2008-03-21T14:52:57+00:00
 url: /2008/03/21/1-year-at-chip-forums/
-arkayne-cache-post:
-  - |
-    
-    
-    
-    
+
 arkayne-time-post:
   - "1325789845"
 categories:

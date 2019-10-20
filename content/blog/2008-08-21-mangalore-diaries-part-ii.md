@@ -4,12 +4,7 @@ author: sathya
 type: post
 date: 2008-08-21T07:37:56+00:00
 url: /2008/08/21/mangalore-diaries-part-ii/
-arkayne-cache-post:
-  - |
-    
-    
-    
-    
+
 arkayne-time-post:
   - "1325616164"
 categories:

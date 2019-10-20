@@ -4,12 +4,7 @@ author: sathya
 type: post
 date: 2008-06-12T04:57:59+00:00
 url: /2008/06/12/a-look-at-codemasters-grid/
-arkayne-cache-post:
-  - |
-    
-    
-    
-    
+
 arkayne-time-post:
   - "1325674597"
 categories:

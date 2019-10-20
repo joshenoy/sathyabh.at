@@ -5,12 +5,7 @@ type: post
 date: 2010-05-10T05:14:31+00:00
 url: /2010/05/10/brush-up-your-plsql-knowledge-with-plsql-challenge/
 
-arkayne-cache-post:
-  - |
-    
-    
-    
-    
+
 arkayne-time-post:
   - "1325727367"
 categories:

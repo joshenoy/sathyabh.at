@@ -4,12 +4,7 @@ author: sathya
 type: post
 date: 2008-01-12T18:26:05+00:00
 url: /2008/01/12/when-2-mods-meet/
-arkayne-cache-post:
-  - |
-    
-    
-    
-    
+
 arkayne-time-post:
   - "1325757761"
 categories:

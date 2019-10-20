@@ -4,12 +4,7 @@ author: sathya
 type: post
 date: 2008-08-12T19:34:38+00:00
 url: /2008/08/13/random-stig-facts/
-arkayne-cache-post:
-  - |
-    
-    
-    
-    
+
 arkayne-time-post:
   - "1325768787"
 categories:

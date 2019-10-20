@@ -4,12 +4,7 @@ author: sathya
 type: post
 date: 2009-03-10T01:48:47+00:00
 url: /2009/03/10/i-travelled-time/
-arkayne-cache-post:
-  - |
-    
-    
-    
-    
+
 arkayne-time-post:
   - "1325778932"
 categories:

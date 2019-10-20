@@ -5,12 +5,7 @@ type: post
 date: 2011-01-09T04:46:28+00:00
 url: /2011/01/09/configure-airtel-gprs-mobile-office-for-android/
 
-arkayne-cache-post:
-  - |
-    
-    
-    
-    
+
 arkayne-time-post:
   - "1325790434"
 categories:

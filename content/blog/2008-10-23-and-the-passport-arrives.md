@@ -4,12 +4,7 @@ author: sathya
 type: post
 date: 2008-10-23T16:32:30+00:00
 url: /2008/10/23/and-the-passport-arrives/
-arkayne-cache-post:
-  - |
-    
-    
-    
-    
+
 arkayne-time-post:
   - "1325735639"
 categories:

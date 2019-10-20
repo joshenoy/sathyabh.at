@@ -4,12 +4,7 @@ author: sathya
 type: post
 date: 2008-12-04T02:38:08+00:00
 url: /2008/12/04/shriya-supriya-gets-featured-on-daijiworld/
-arkayne-cache-post:
-  - |
-    
-    
-    
-    
+
 arkayne-time-post:
   - "1325790520"
 categories:

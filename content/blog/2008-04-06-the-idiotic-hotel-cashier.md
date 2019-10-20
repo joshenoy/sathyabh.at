@@ -4,12 +4,7 @@ author: sathya
 type: post
 date: 2008-04-06T17:01:48+00:00
 url: /2008/04/06/the-idiotic-hotel-cashier/
-arkayne-cache-post:
-  - |
-    
-    
-    
-    
+
 arkayne-time-post:
   - "1325621498"
 categories:

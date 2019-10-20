@@ -4,12 +4,7 @@ author: sathya
 type: post
 date: 2008-03-08T13:57:01+00:00
 url: /2008/03/08/chennai-twitter-meetup/
-arkayne-cache-post:
-  - |
-    
-    
-    
-    
+
 arkayne-time-post:
   - "1325676584"
 categories:

@@ -5,12 +5,7 @@ type: post
 date: 2011-03-21T08:38:24+00:00
 url: /2011/03/21/fix-initialization-error-loadlibrary-oci-dll-returned-0-while-trying-to-connect-to-oracle-using-plsql-developer/
 
-arkayne-cache-post:
-  - |
-    
-    
-    
-    
+
 arkayne-time-post:
   - "1325789975"
 categories:

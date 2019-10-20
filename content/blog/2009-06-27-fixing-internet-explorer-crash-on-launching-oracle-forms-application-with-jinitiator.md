@@ -6,12 +6,7 @@ date: 2009-06-26T21:29:20+00:00
 url: /2009/06/27/fixing-internet-explorer-crash-on-launching-oracle-forms-application-with-jinitiator/
 aktt_notify_twitter:
   - 'no'
-arkayne-cache-post:
-  - |
-    
-    
-    
-    
+
 arkayne-time-post:
   - "1325792094"
 categories:

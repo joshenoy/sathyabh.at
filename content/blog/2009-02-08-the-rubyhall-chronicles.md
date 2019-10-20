@@ -4,12 +4,7 @@ author: sathya
 type: post
 date: 2009-02-08T02:03:09+00:00
 url: /2009/02/08/the-rubyhall-chronicles/
-arkayne-cache-post:
-  - |
-    
-    
-    
-    
+
 arkayne-time-post:
   - "1325751853"
 categories:

@@ -5,12 +5,7 @@ type: post
 date: 2012-01-05T04:52:39+00:00
 url: /2012/01/05/maruti-suzuki-interview-offer/
 
-arkayne-cache-post:
-  - |
-    
-    
-    
-    
+
 arkayne-time-post:
   - "1325790701"
 categories:

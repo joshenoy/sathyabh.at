@@ -4,12 +4,7 @@ author: sathya
 type: post
 date: 2008-03-02T17:14:35+00:00
 url: /2008/03/02/my-new-baby/
-arkayne-cache-post:
-  - |
-    
-    
-    
-    
+
 arkayne-time-post:
   - "1325698088"
 categories:

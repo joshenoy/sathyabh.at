@@ -4,12 +4,7 @@ author: sathya
 type: post
 date: 2008-06-09T06:34:45+00:00
 url: /2008/06/09/digia-web-finger-touch-web-browser-for-uiq-phones/
-arkayne-cache-post:
-  - |
-    
-    
-    
-    
+
 arkayne-time-post:
   - "1325791522"
 categories:

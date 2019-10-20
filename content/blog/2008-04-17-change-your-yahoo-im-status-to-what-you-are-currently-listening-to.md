@@ -4,12 +4,7 @@ author: sathya
 type: post
 date: 2008-04-16T19:19:35+00:00
 url: /2008/04/17/change-your-yahoo-im-status-to-what-you-are-currently-listening-to/
-arkayne-cache-post:
-  - |
-    
-    
-    
-    
+
 arkayne-time-post:
   - "1325785487"
 categories:

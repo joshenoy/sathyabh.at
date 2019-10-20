@@ -4,12 +4,7 @@ author: sathya
 type: post
 date: 2008-07-15T16:36:29+00:00
 url: /2008/07/15/the-my-world-comment-and-win-contestwell-sorta/
-arkayne-cache-post:
-  - |
-    
-    
-    
-    
+
 arkayne-time-post:
   - "1325750219"
 categories:

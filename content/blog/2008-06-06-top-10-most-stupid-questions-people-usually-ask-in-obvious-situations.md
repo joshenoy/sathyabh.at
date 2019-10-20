@@ -4,12 +4,7 @@ author: sathya
 type: post
 date: 2008-06-06T08:34:10+00:00
 url: /2008/06/06/top-10-most-stupid-questions-people-usually-ask-in-obvious-situations/
-arkayne-cache-post:
-  - |
-    
-    
-    
-    
+
 arkayne-time-post:
   - "1325780779"
 categories:

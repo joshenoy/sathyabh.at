@@ -4,12 +4,7 @@ author: sathya
 type: post
 date: 2008-04-05T15:29:02+00:00
 url: /2008/04/05/appraisals-appraisals/
-arkayne-cache-post:
-  - |
-    
-    
-    
-    
+
 arkayne-time-post:
   - "1325781058"
 categories:
