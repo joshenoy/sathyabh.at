@@ -3,7 +3,7 @@ DefaultContentLanguage  = "en"
 title                   = "My World - Small posts here and there about my life"
 theme                   = "hugo-future-imperfect-slim"
 preserveTaxonomyNames   = true
-paginate                = 3
+paginate                = 5
 disqusShortname         = ""
 googleAnalytics         = ""
 pluralizeListTitles     = false
@@ -34,7 +34,7 @@ disableLanguages        = ["de", "fr", "pl", "pt"]
     # Sets the meta tag description
     description         = "Small posts here and there about my life."
     # Sets the meta tag author
-    author              = "HTML5UP and Hugo"
+    author              = "Sathyajith Bhat"
     # If you would like to add more comprehensive favicon support passed root
     # directory favicon.ico, utlize this funtion. It is recommened to use
     # https://realfavicongenerator.net to generate your icons as that is the basis
