@@ -1,0 +1,99 @@
+---
+title: The RubyHall Chronicles
+author: sathya
+type: post
+date: 2009-02-08T02:03:09+00:00
+url: /2009/02/08/the-rubyhall-chronicles/
+arkayne-cache-post:
+  - |
+    
+    
+    <script type="text/javascript" defer="defer"> BlogGlue = window.BlogGlue || window.Arkayne || {}; BlogGlue.baseurl = 'http://www.blogglue.com'; BlogGlue.go = function(e, a, cid, gid) { var id = a.getAttribute('id'); var orig = a.getAttribute('href'); var target = a.getAttribute('target'); var redir = [BlogGlue.baseurl, 'link', cid, gid, ''].join('/'); redir += '?ts=' + Math.random(); redir += '&amp;url=' + escape(a.href); a.setAttribute('href', redir); setTimeout('BlogGlue.restore("' + id + '", "' + orig + '")', 0); return true; }; BlogGlue.restore = function(id, orig) { var a = document.getElementById(id); if (a) a.setAttribute('href', orig); }; </script> <div class="blogglue_plugin" style="display:block;margin:5px 0px 20px 0px;"> <h3 class="blogglue-header blogglue-inner"> More From sathyabhat </h3> <ul class="blogglue-links blogglue-inner"> <li id="blogglue-inner-1"><a href="http://sathyabh.at/2008/03/30/sony-ericsson-p1i-review/?utm_source=BlogGlue_network&amp;utm_medium=BlogGlue_Plugin" id="blogglue-2953377" target="_parent" onclick="return BlogGlue.go(event, this, 2942144, 2953377);" title="Sony Ericsson P1i Review » My World">Sony Ericsson P1i Review » My World</a></li> <li id="blogglue-inner-2"><a href="http://sathyabh.at/2008/01/15/the-reason-why-my-room-was-raided/?utm_source=BlogGlue_network&amp;utm_medium=BlogGlue_Plugin" id="blogglue-2956333" target="_parent" onclick="return BlogGlue.go(event, this, 2942144, 2956333);" title="The reason why my room was raided » My World">The reason why my room was raided » My World</a></li> <li id="blogglue-inner-3"><a href="http://sathyabh.at/2008/01/27/the-week-that-was/?utm_source=BlogGlue_network&amp;utm_medium=BlogGlue_Plugin" id="blogglue-2947644" target="_parent" onclick="return BlogGlue.go(event, this, 2942144, 2947644);" title="The week that was » My World">The week that was » My World</a></li> </ul> <div class="blogglue-footer" style="margin:10px 0px;display:block !important"> <a href="http://www.blogglue.com/12928-ab7e24be6f12e678fc1a468df18f3f3f/?utm_source=BlogGlue%20Plugin&amp;utm_medium=Recommend&amp;utm_campaign=Plugin&amp;coupon=SATHYABHAT&amp;blogglue_page=2942144" target="_blank" style="text-decoration:none !important;"> <img src="http://www.gravatar.com/avatar.php?default=%2F%2Fs3.amazonaws.com%2Farkayne-media%2Fimg%2Fprofile%2Fdefault_sm.png&amp;size=24&amp;gravatar_id=1375f202e61682cc4963295f4b0430dc" width="24" height="24" border="0" alt="Blog Margeting Related Posts Plugin For sathyabhat" style="display:inline;margin: 0 5px 0 10px; border:1px solid #AAA; width: 24px !important; height: 24px; !important;"/><span style="position:relative;top:-8px;font-family:'Trebuchet MS'; font-size: 0.8em;">Ask <strong>sathyabhat</strong> To Recommend Your Posts</span> </a> <img class="blogglue-hit" style="border:none;left:-9999px;position:absolute;" src="http://www.blogglue.com/widget/hit/2942144.GIF" border="0" alt="Blog Marketing Related Posts Plugin Counter" /> </div> </div>
+    
+arkayne-time-post:
+  - "1325751853"
+categories:
+  - Life
+  - Views
+tags:
+  - 3i
+  - Chennai
+  - Life
+
+---
+This piece of work was written(and is continuing to be written, as of now) by my buddy, fellow rocker and 3i-ian Ankit. Its basically on our journey in 3i, from day 1. Note: This is NOT my article, all due credits to Ankit.
+
+<!--more-->
+
+> A winter in Chennai.. !!
+> 
+> Credits :-  
+> Jay Krishnan  
+> Shankar Ramachandran  
+> Aditya Gogoi  
+> Sathyajith Bhat  
+> Ashmita Bhattacharjee  
+> Deepti Raghavan  
+> Sivaranjani Vasantharao  
+> Nisha Vasudevan  
+> Lekha Unnithan  
+> Smrithi Sudevan  
+> Renu Krishnan  
+> Merlyn Baby Daniel  
+> Chellalakshmi Mutthuranjan  
+> Suresh Soundarajan  
+> Steve Sam  
+> Devarsh Chauhan  
+> Soundar Gopalan  
+> Ved Prakash Gaur  
+> Mukesh Kamlani  
+> Murthy  
+> Amarnath M.  
+> Nitin Arora  
+> Ramakrishna Pabineedi  
+> Ankit Khare
+> 
+> First Shot:-  
+> Date:- 29th June, 2020.
+> 
+> Office scene. m looking down upon the half lit city of New York from my window which is at d 47th floor, thinking about the meeting which m supposed to address with one of our prospective clients.. one week later.. Just adjusting my gold rim specs with one hand and sipping a coffee with the other.. the way i like it these days.. without sugar..without milk.. my thoughts were focussed on the clients response to our presentation ..how the deal will go.. just then my blackberry vibrates.. &#8216;You&#8217;ve got mail&#8217; it says.. From: Jay Krishnan&#8230;!!!! Did I read &#8216;Jay&#8217;..?? Well I read it once again&#8230;Pulling myself to senses&#8230; I read it yet again..yes.. It was from &#8216;Jay Krishnan&#8217; &#8230; &#8216;Dude, long time no c.. remember July 9th is coming up&#8230;!! Lets see who has lost more hair amongst us&#8230;!!&#8217; thats all the mail said.. I think now the coffee didnt taste that bitter&#8230; &#8216;Dude, long time no c..&#8217; that brought the long lost smile to my face&#8230; ok.. !! time to leave now&#8230; Get into my E-Class parked in the basement parking. Switch on the station.. and guess what..it is KK.. Dosti&#8230; drive for home. Reach home. Park my car in the parking. A towering residential apartment in the Madison Avenue. Take a shower. Whole city view from my balcony&#8230; on the 15th floor. cup of coffee. Still moving my left hand fingers to strum Dosti and murmuring the lyrics. Just try to unwind. 15mins later&#8230;Mentally m now relaxed and enjoying the pleasant wind blowing through me. Think about the meaningful lyrics ..about dosti&#8230; Remember friends. Remember RUBY&#8230; &#8216;the&#8217; RUBY HALL.. !! SHWAAASHHH&#8230; !!!!  
+> [ad#in-post]  
+> July 6th, 2007.  
+> Venue:- Chennai Central Railway Station  
+> Time:- 4:15 pm.
+> 
+> My train was right on time at the chennai central railway Station. It was a tiring but an exciting 37 hour long journey from Baroda to Chennai. I was feeling sad to leave my parents and come 1800 kms away from home here in Chennai, yet excited to start working in a big firm-3i-infotech Ltd. (formerly ICICI Infotech Ltd. )  
+> Just came out of the station, fully loaded with luggage, searched for a rickshaw that was &#8216;comparatively cheaper&#8217;.. fix the rate as 70 Rs to a place near one Hotel Maharaja, Triplicane, Near Star Theatre&#8230; I knew these names&#8230; thanks to Orkut.. !!  
+> Got down at the venue. Called up Sathya.. &#8216;the&#8217; tech freak of our batch.. !! .. He had reached at the decided mansion a day before alongwith the one and only Aditya Gogoi. &#8230;his room mate.. since then.. and surprisingly till date&#8230; !! .. We were meeting each other for the first time in our lives. But I think at that point everyone was happy meeting each other&#8230; !! .. Got initially into room #401 at the ground floor..of our Cristal Guest House.. They were putting up at the room #407 on the third floor. My one day seniors at that place guided me through and got me settled. I was dead tired. We just ate something and slept in our respective rooms waiting for the July 7th to arrive.
+> 
+> Come July 7th, 2007.
+> 
+> Evening sometime around 8-9 am, entered the &#8216;god father&#8217;.. Shankar .. our messiah.. our saviour.. our guide and my room mate. . On his arrival we moved to room #403 on the third floor itself.
+> 
+> July 9th, 2007.  
+> Time:- 9 am  
+> Venue :- Rickshaw Stand.
+> 
+> We had gotten ready for our first day of training at the firm. We bargained with the rickshaw walla for a cheaper deal to get us at MBC Towers, TTK Road., Alwarpet, where our office was. We agree upon for 50 bucks and set for our commute.
+> 
+> Reach at the venue, ask our way to the 4th floor of MBC Towers. We are asked by the security to wait at the reception until someone concerned comes to guide us ahead. There were a couple of other people too sitting on those sofas at the reception. Some guys and a gal&#8230; Everyone was kinda nervous that being the first day .. Only the four of us were talking to each other. 2-3 mins later more people started coming in.. &#8216;the&#8217; RUBYites started coming in ..  
+> Many of us knew each others names .. (again thanks to orkut..). Some also had met each other during the selection process. But still.. there was a kind of hesitation to go and start speaking.
+> 
+> 920 am.. almost all the 24 people reach and get settled at the reception. Some murmuring amongst the neighbours starts.. &#8216;introduction&#8217; obviously.. Everyone is pretty seemingly jolly. The ambience is just about introducing one&#8217;s self to the other&#8230; All are fresh and smiling&#8230; and happy.. !! Then one instruction comes that we were supposed to assemble at our training centre&#8230; We all walk our way to the &#8216;3i-Infotech Training Centres&#8217; just near the MBC Towers. Our Training Room was called &#8216;RUBY HALL&#8217; &#8230;!!!!
+> 
+> Venue:- Ruby Hall Classroom  
+> Strength:- Fully Packed with 24 people.
+> 
+> There are people talking throughout the classroom in many different languages. Tamil, Malayalam, Telugu, Hindi and English. People from all corners of the country constituted the community called &#8216;RUBYites&#8217;&#8230;!!  
+> Slowly days pass and everyone starts talking to everyone. The thought of working and the corporate world jitters never bothered to enter Ruby Hall&#8230;. It was like a college class room&#8230;
+> 
+> New friendships begin to take shape, new crushes begin to develop.
+> 
+> We start going for movies in small groups.. guys separate, gals separate.. untill &#8216;pondicherry&#8217;.. one fine day the gals put up this idea of going to pondicherry for an outing.  
+> All agree in unison. All set to wake up early the next morning for the trip.
+> 
+> Venue:- Inside the Bus to Pondicherry  
+> Time:- Around 8 am.  
+> All are at that moment just kind of familiar with each other. The journey starts. Some suggest and give some CDs to the driver to play in his player.. Games are being played. Fish Pond, Truth and Dare etc.. The RUBY bond becomes stronger.. !!
+
+To be continued!

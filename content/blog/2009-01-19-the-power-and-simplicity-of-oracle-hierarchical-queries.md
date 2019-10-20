@@ -1,0 +1,118 @@
+---
+title: The Power and Simplicity of Oracle Hierarchical Queries
+author: sathya
+type: post
+date: 2009-01-19T04:12:55+00:00
+url: /2009/01/19/the-power-and-simplicity-of-oracle-hierarchical-queries/
+arkayne-cache-post:
+  - |
+    
+    <script type="text/javascript" defer="defer"> BlogGlue = window.BlogGlue || window.Arkayne || {}; BlogGlue.baseurl = 'http://www.blogglue.com'; BlogGlue.go = function(e, a, cid, gid) { var id = a.getAttribute('id'); var orig = a.getAttribute('href'); var target = a.getAttribute('target'); var redir = [BlogGlue.baseurl, 'link', cid, gid, ''].join('/'); redir += '?ts=' + Math.random(); redir += '&amp;url=' + escape(a.href); a.setAttribute('href', redir); setTimeout('BlogGlue.restore("' + id + '", "' + orig + '")', 0); return true; }; BlogGlue.restore = function(id, orig) { var a = document.getElementById(id); if (a) a.setAttribute('href', orig); }; </script> <div class="blogglue_plugin" style="display:block;margin:5px 0px 20px 0px;"> <h3 class="blogglue-header blogglue-inner"> More From sathyabhat </h3> <ul class="blogglue-links blogglue-inner"> <li id="blogglue-inner-1"><a href="http://sathyabh.at/2008/02/17/of-handling-multiple-projects-and-failed-evdo-connections/?utm_source=BlogGlue_network&amp;utm_medium=BlogGlue_Plugin" id="blogglue-2949791" target="_parent" onclick="return BlogGlue.go(event, this, 2942146, 2949791);" title="Of Handling Multiple Projects And Failed EVDO Connections » My World">Of Handling Multiple Projects And Failed EVDO Connections » My World</a></li> <li id="blogglue-inner-2"><a href="http://sathyabh.at/2008/01/27/the-week-that-was/?utm_source=BlogGlue_network&amp;utm_medium=BlogGlue_Plugin" id="blogglue-2947644" target="_parent" onclick="return BlogGlue.go(event, this, 2942146, 2947644);" title="The week that was » My World">The week that was » My World</a></li> </ul> <div class="blogglue-footer" style="margin:10px 0px;display:block !important"> <a href="http://www.blogglue.com/12928-ab7e24be6f12e678fc1a468df18f3f3f/?utm_source=BlogGlue%20Plugin&amp;utm_medium=Recommend&amp;utm_campaign=Plugin&amp;coupon=SATHYABHAT&amp;blogglue_page=2942146" target="_blank" style="text-decoration:none !important;"> <img src="http://www.gravatar.com/avatar.php?default=%2F%2Fs3.amazonaws.com%2Farkayne-media%2Fimg%2Fprofile%2Fdefault_sm.png&amp;size=24&amp;gravatar_id=1375f202e61682cc4963295f4b0430dc" width="24" height="24" border="0" alt="Blog Margeting Related Posts Plugin For sathyabhat" style="display:inline;margin: 0 5px 0 10px; border:1px solid #AAA; width: 24px !important; height: 24px; !important;"/><span style="position:relative;top:-8px;font-family:'Trebuchet MS'; font-size: 0.8em;">Ask <strong>sathyabhat</strong> To Recommend Your Posts</span> </a> <img class="blogglue-hit" style="border:none;left:-9999px;position:absolute;" src="http://www.blogglue.com/widget/hit/2942146.GIF" border="0" alt="Blog Marketing Related Posts Plugin Counter" /> </div> </div>
+    
+arkayne-time-post:
+  - "1325754448"
+categories:
+  - 'Oracle &amp; PL/SQL Stuff'
+tags:
+  - hierarchical queries
+  - oracle
+  - PL/SQL
+  - query
+  - SQL
+
+---
+They say &#8220;Necessity is the Power of Invention&#8221; &#8211; a quote which I fully understood the impact today. I&#8217;ve been trying to understand Oracle&#8217;s Hierarchical Queries for a while now, but never fully understood the situation under which or when it would be used. Yesterday I got a reason to use it. Let me begin.
+
+<p style="text-align: left;">
+  <!--more-->
+  
+  <a href="http://sathyabh.at/wp-content/uploads/2009/01/menu.png"><img class="size-medium wp-image-209 aligncenter" title="menu" src="http://sathyabh.at/wp-content/uploads/2009/01/menu-300x178.png" alt="menu" width="300" height="178" /></a>The above picure shows the menu structure of the our application. Now the implementer wanted the menu structure, of each and _every_ module, in a spreadsheet so that he could forward it to the client and get the user authorization thing going(ie, who&#8217;s got authority to view/edit etc). Now under each module we have several menus and submenus, and manually entering these would be like ultimate FAIL (later ananlysis showed on an average, each module had about 80 entries). So I was figuring out how to extract this. Now I knew that all these entries were there in the database I was struggling with the query to extract it.
+</p>
+
+So the first query I came up was this:
+
+`<span style="font-family: Courier New; font-size: 10pt;"><br />
+<span style="color: blue; ">SELECT</span> <span style="color: maroon; ">MENU_SCR_NAME</span><br />
+<span style="color: blue; ">FROM</span> <span style="color: maroon; ">MENU_MENUS</span><br />
+<span style="color: blue; ">WHERE</span> <span style="color: maroon; ">MENU_PARENT_ID</span> <span style="color: silver; ">=</span> <span style="color: red; ">'101'</span></span>`
+
+This is what the query results were &#8211; a simple output.
+
+<span style="font-family: Courier New; font-size: 10pt;"><a href="http://sathyabh.at/wp-content/uploads/2009/01/query1.png"><img class="alignnone size-full wp-image-211" title="Query results" src="http://sathyabh.at/wp-content/uploads/2009/01/query1.png" alt="Query results" width="180" height="338" /></a></span>
+
+Now I knew I&#8217;d be going nowhere with this simple query, and I knew normal joins won&#8217;t work, so I started looking at Hierarchical queries. Hierarchical queries(going to refer as h-queries) basically allow you to build queries, based on well, hierarchies. Parent &#8211; Child Relationships. Tree-Leaf style. Read a bit on h-queries and reconstructed the SQL query to the one below.
+
+`<span style="font-family: Courier New; font-size: 10pt;"><span style="color: blue;">SELECT</span> <span style="color: maroon;">MENU_SCR_NAME</span><br />
+<span style="color: blue;">FROM</span> <span style="color: maroon;">MENU_MENUS</span><br />
+<span style="color: blue;">CONNECT</span> <span style="color: blue;">BY</span> <span style="color: blue;">PRIOR</span> <span style="color: maroon;">MENU_ID</span> <span style="color: silver;">=</span> <span style="color: maroon;">MENU_PARENT_ID</span><br />
+<span style="color: blue;">START</span> <span style="color: blue;">WITH</span> <span style="color: maroon;">MENU_ID</span> <span style="color: silver;">=</span> <span style="color: red;">'101'</span><span style="color: silver;">;</span><br />
+</span>`  
+The result of the query is shown below:
+
+<span style="font-family: Courier New; font-size: 10;"><a href="http://sathyabh.at/wp-content/uploads/2009/01/query2.png"><img class="alignnone size-full wp-image-212" title="query2" src="http://sathyabh.at/wp-content/uploads/2009/01/query2.png" alt="query2" width="215" height="350" /></a></span>
+
+While the result of the query looks the same as the first, I knew that it was returning the results in a hierarchy,just check the first image. The keyword for this query is &#8220;Connect by&#8221; and &#8220;Prior&#8221; which transforms the query into a h-query. The &#8220;connect by&#8221; and &#8220;prior&#8221; gives the conditions for hierarachy in the query, with the column next to &#8220;prior&#8221; being the child column and the one next to equality being the parent column. The &#8220;start with&#8221; keyword tells Oracle which is the root record.
+
+Now make things a little complicated, the database contains more records than what&#8217;s necessary, and I had to filter them based on user authorization conditions as well. So I added a subquery to filter out those records which belong to the superuser.
+
+So the query now became a little bit more (unnecessarily) complicated:  
+`<br />
+<span style="font-family: Courier New; font-size: 10pt;"><span style="color: blue;">SELECT</span> <span style="color: #ff0080;"><strong>Lpad</strong></span><span style="color: maroon;">(</span><span style="color: maroon;">menu_scr_name</span><span style="color: silver;">,</span><span style="color: #ff0080;"><strong>Length</strong></span><span style="color: maroon;">(</span><span style="color: maroon;">menu_scr_name</span><span style="color: maroon;">)</span> <span style="color: silver;">+</span> <span style="color: blue;">LEVEL</span> <span style="color: silver;">*</span> <span style="color: black;">4</span> <span style="color: silver;">-</span> <span style="color: black;">4</span><span style="color: silver;">,</span><span style="color: red;">'-'</span><span style="color: maroon;">)</span><br />
+<span style="color: blue;">FROM</span> <span style="color: maroon;">menu_menus</span><br />
+<span style="color: blue;">WHERE</span> <span style="color: maroon;">menu_id</span> <span style="color: blue;">IN</span> <span style="color: maroon;">(</span><span style="color: blue;">SELECT</span> <span style="color: maroon;">um_menu_id</span><br />
+<span style="color: blue;">FROM</span> <span style="color: maroon;">menu_user_menus</span><br />
+<span style="color: blue;">WHERE</span> <span style="color: maroon;">um_group_id</span> <span style="color: silver;">=</span> <span style="color: red;">'USGRP'</span><br />
+<span style="color: blue;">AND</span> <span style="color: maroon;">um_menu_id</span> <span style="color: blue;">IN</span> <span style="color: maroon;">(</span><span style="color: blue;">SELECT</span> <span style="color: maroon;">menu_id</span><br />
+<span style="color: blue;">FROM</span> <span style="color: maroon;">menu_menus</span><br />
+<span style="color: blue;">CONNECT</span> <span style="color: blue;">BY</span> <span style="color: blue;">PRIOR</span> <span style="color: maroon;">menu_id</span> <span style="color: silver;">=</span> <span style="color: maroon;">menu_parent_id</span><br />
+<span style="color: blue;">START</span> <span style="color: blue;">WITH</span> <span style="color: maroon;">menu_id</span> <span style="color: silver;">=</span> <span style="color: red;">'101'</span><span style="color: maroon;">)</span><span style="color: maroon;">)</span><br />
+<span style="color: blue;">CONNECT</span> <span style="color: blue;">BY</span> <span style="color: blue;">PRIOR</span> <span style="color: maroon;">menu_id</span> <span style="color: silver;">=</span> <span style="color: maroon;">menu_parent_id</span><br />
+<span style="color: blue;">ORDER</span> <span style="color: blue;">BY</span> <span style="color: maroon;">menu_id</span><br />
+</span>`  
+The Lpad function is an Oracle PL/SQL function which adds padding of a specified character to the left. The results were not exactly what I was looking for.
+
+[<img class="alignnone size-full wp-image-216" title="query3" src="http://sathyabh.at/wp-content/uploads/2009/01/query3.png" alt="query3" width="160" height="360" />][1]
+
+A bit of further reading and I came to know that order by destroys the hierarchy, and &#8220;order siblings&#8221; by is what is supported to be used.
+
+So Modified the query to:  
+`<span style="font-family: Courier New; font-size: 10pt;"><span style="color: blue;">SELECT</span> <span style="color: #ff0080;"><strong>Lpad</strong></span><span style="color: maroon;">(</span><span style="color: maroon;">menu_scr_name</span><span style="color: silver;">,</span><span style="color: #ff0080;"><strong>Length</strong></span><span style="color: maroon;">(</span><span style="color: maroon;">menu_scr_name</span><span style="color: maroon;">)</span> <span style="color: silver;">+</span> <span style="color: blue;">LEVEL</span> <span style="color: silver;">*</span> <span style="color: black;">4</span> <span style="color: silver;">-</span> <span style="color: black;">4</span><span style="color: silver;">,</span><span style="color: red;">'-'</span><span style="color: maroon;">)</span><br />
+<span style="color: blue;">FROM</span> <span style="color: maroon;">menu_menus</span><br />
+<span style="color: blue;">WHERE</span> <span style="color: maroon;">menu_id</span> <span style="color: blue;">IN</span> <span style="color: maroon;">(</span><span style="color: blue;">SELECT</span> <span style="color: maroon;">um_menu_id</span><br />
+<span style="color: blue;">FROM</span> <span style="color: maroon;">menu_user_menus</span><br />
+<span style="color: blue;">WHERE</span> <span style="color: maroon;">um_group_id</span> <span style="color: silver;">=</span> <span style="color: red;">'USGRP'</span><br />
+<span style="color: blue;">AND</span> <span style="color: maroon;">um_menu_id</span> <span style="color: blue;">IN</span> <span style="color: maroon;">(</span><span style="color: blue;">SELECT</span> <span style="color: maroon;">menu_id</span><br />
+<span style="color: blue;">FROM</span> <span style="color: maroon;">menu_menus</span><br />
+<span style="color: blue;">CONNECT</span> <span style="color: blue;">BY</span> <span style="color: blue;">PRIOR</span> <span style="color: maroon;">menu_id</span> <span style="color: silver;">=</span> <span style="color: maroon;">menu_parent_id</span><br />
+<span style="color: blue;">START</span> <span style="color: blue;">WITH</span> <span style="color: maroon;">menu_id</span> <span style="color: silver;">=</span> <span style="color: red;">'101'</span><span style="color: maroon;">)</span><span style="color: maroon;">)</span><br />
+<span style="color: blue;">CONNECT</span> <span style="color: blue;">BY</span> <span style="color: blue;">PRIOR</span> <span style="color: maroon;">menu_id</span> <span style="color: silver;">=</span> <span style="color: maroon;">menu_parent_id</span><br />
+<span style="color: blue;">ORDER</span> <span style="color: blue;">SIBLINGS</span> <span style="color: blue;">BY</span> <span style="color: maroon;">menu_id</span><br />
+</span>`
+
+And it all came into place. Almost.
+
+Have a look:
+
+[<img class="alignnone size-full wp-image-217" title="query4" src="http://sathyabh.at/wp-content/uploads/2009/01/query4.png" alt="query4" width="189" height="480" />][2]
+
+Unfortunately, it wasn&#8217;t quite right, as the query was going into an almost infinite loop, as the child record itself became the root record.
+
+I had a look at the query again, and realized that my query itself was wrong, as corrected it to  
+`<br />
+<span style="font-family: Courier New; font-size: 10pt;"><span style="color: blue;">SELECT</span> <span style="color: #ff0080;"><strong>Lpad</strong></span><span style="color: maroon;">(</span><span style="color: maroon;">menu_scr_name</span><span style="color: silver;">,</span><span style="color: #ff0080;"><strong>Length</strong></span><span style="color: maroon;">(</span><span style="color: maroon;">menu_scr_name</span><span style="color: maroon;">)</span> <span style="color: silver;">+</span> <span style="color: blue;">LEVEL</span> <span style="color: silver;">*</span> <span style="color: black;">4</span> <span style="color: silver;">-</span> <span style="color: black;">4</span><span style="color: silver;">,</span><span style="color: red;">'-'</span><span style="color: maroon;">)</span> <span style="color: maroon;">"Menu"</span><br />
+<span style="color: blue;">FROM</span> <span style="color: maroon;">menu_menus</span><br />
+<span style="color: blue;">WHERE</span> <span style="color: maroon;">menu_id</span> <span style="color: blue;">IN</span> <span style="color: maroon;">(</span><span style="color: blue;">SELECT</span> <span style="color: maroon;">um_menu_id</span><br />
+<span style="color: blue;">FROM</span> <span style="color: maroon;">menu_user_menus</span><br />
+<span style="color: blue;">WHERE</span> <span style="color: maroon;">um_group_id</span> <span style="color: silver;">=</span> <span style="color: red;">'USGRP'</span><span style="color: maroon;">)</span><br />
+<span style="color: blue;">CONNECT</span> <span style="color: blue;">BY</span> <span style="color: blue;">NOCYCLE</span> <span style="color: blue;">PRIOR</span> <span style="color: maroon;">menu_id</span> <span style="color: silver;">=</span> <span style="color: maroon;">menu_parent_id</span><br />
+<span style="color: blue;">START</span> <span style="color: blue;">WITH</span> <span style="color: maroon;">menu_id</span> <span style="color: silver;">=</span> <span style="color: red;">'101'</span><br />
+<span style="color: blue;">ORDER</span> <span style="color: blue;">SIBLINGS</span> <span style="color: blue;">BY</span> <span style="color: maroon;">menu_seq_no</span><span style="color: silver;">;</span><br />
+</span>`
+
+So in essence, I got rid of the unnecessary inner sub-query and voila!
+
+[<img class="alignnone size-full wp-image-218" title="query5" src="http://sathyabh.at/wp-content/uploads/2009/01/query5.png" alt="query5" width="215" height="520" />][3]
+
+ [1]: http://sathyabh.at/wp-content/uploads/2009/01/query3.png
+ [2]: http://sathyabh.at/wp-content/uploads/2009/01/query4.png
+ [3]: http://sathyabh.at/wp-content/uploads/2009/01/query5.png
