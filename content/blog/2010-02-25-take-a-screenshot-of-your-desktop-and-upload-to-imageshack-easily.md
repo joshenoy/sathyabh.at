@@ -12,7 +12,6 @@ categories:
   - Programming
 tags:
   - .net
-  - 'c#'
   - imageshack
   - imageshack uploader
   - Programming
