@@ -4,8 +4,7 @@ author: sathya
 type: post
 date: 2010-11-10T18:27:21+00:00
 url: /2010/11/10/batch-file-to-delete-files-older-than-x-days/
-topsy_short_url:
-  - http://u.sbhat.me/9qlaoy
+
 arkayne-cache-post:
   - |
     

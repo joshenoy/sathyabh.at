@@ -4,8 +4,7 @@ author: sathya
 type: post
 date: 2008-10-25T10:03:54+00:00
 url: /2008/10/25/a-guide-to-airtel-gprs-and-airtel-gprs-configuration-settings/
-topsy_short_url:
-  - http://u.sbhat.me/gtlyxl
+
 arkayne-cache-post:
   - |
     

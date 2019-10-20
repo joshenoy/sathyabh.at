@@ -4,8 +4,7 @@ author: sathya
 type: post
 date: 2008-07-27T10:21:00+00:00
 url: /2008/07/27/how-organise-and-tag-music-mp3-files-automatically-using-musicbrainz-picard-tagger/
-topsy_short_url:
-  - http://bit.ly/bdKtbq
+
 arkayne-cache-post:
   - |
     

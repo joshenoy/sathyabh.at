@@ -4,8 +4,7 @@ author: sathya
 type: post
 date: 2010-08-08T18:15:43+00:00
 url: /2010/08/08/heading-back-to-austin/
-topsy_short_url:
-  - http://bit.ly/d8KI4K
+
 arkayne-cache-post:
   - |
     

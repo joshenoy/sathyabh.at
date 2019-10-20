@@ -4,8 +4,7 @@ author: sathya
 type: post
 date: 2011-10-21T09:58:13+00:00
 url: /2011/10/21/the-farce-that-is-online-request-forms-present-on-indian-websites/
-topsy_short_url:
-  - http://u.sbhat.me/ru86is
+
 arkayne-cache-post:
   - |
     

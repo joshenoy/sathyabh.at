@@ -4,8 +4,7 @@ author: sathya
 type: post
 date: 2010-08-01T05:19:55+00:00
 url: /2010/08/01/cisco-vpn-client-for-windows-vista-windows-7-64-bit/
-topsy_short_url:
-  - http://bit.ly/da1hgf
+
 arkayne-cache-post:
   - |
     

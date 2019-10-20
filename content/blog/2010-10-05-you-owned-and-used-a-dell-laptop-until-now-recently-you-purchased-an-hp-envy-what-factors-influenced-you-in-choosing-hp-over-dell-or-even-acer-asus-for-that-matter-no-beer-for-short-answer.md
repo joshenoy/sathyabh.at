@@ -4,8 +4,7 @@ author: sathya
 type: post
 date: 2010-10-05T04:39:40+00:00
 url: /2010/10/05/you-owned-and-used-a-dell-laptop-until-now-recently-you-purchased-an-hp-envy-what-factors-influenced-you-in-choosing-hp-over-dell-or-even-acer-asus-for-that-matter-no-beer-for-short-answer/
-topsy_short_url:
-  - http://bit.ly/bLq0p3
+
 arkayne-cache-post:
   - |
     

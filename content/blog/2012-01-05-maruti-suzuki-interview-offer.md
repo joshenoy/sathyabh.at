@@ -4,8 +4,7 @@ author: sathya
 type: post
 date: 2012-01-05T04:52:39+00:00
 url: /2012/01/05/maruti-suzuki-interview-offer/
-topsy_short_url:
-  - http://u.sbhat.me/wpWecY
+
 arkayne-cache-post:
   - |
     

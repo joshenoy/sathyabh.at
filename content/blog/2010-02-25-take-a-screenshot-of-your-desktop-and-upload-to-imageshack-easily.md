@@ -4,8 +4,7 @@ author: sathya
 type: post
 date: 2010-02-25T01:28:04+00:00
 url: /2010/02/25/take-a-screenshot-of-your-desktop-and-upload-to-imageshack-easily/
-topsy_short_url:
-  - http://bit.ly/dndzI4
+
 arkayne-cache-post:
   - |
     

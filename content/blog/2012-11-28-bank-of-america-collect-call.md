@@ -4,8 +4,7 @@ author: sathya
 type: post
 date: 2012-11-28T16:51:50+00:00
 url: /2012/11/28/bank-of-america-collect-call/
-topsy_short_url:
-  - http://u.sbhat.me/UccRKU
+
 categories:
   - Events
 tags:

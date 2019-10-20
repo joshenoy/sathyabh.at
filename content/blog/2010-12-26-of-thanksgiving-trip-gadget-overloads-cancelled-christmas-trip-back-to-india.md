@@ -4,8 +4,7 @@ author: sathya
 type: post
 date: 2010-12-26T04:54:17+00:00
 url: /2010/12/26/of-thanksgiving-trip-gadget-overloads-cancelled-christmas-trip-back-to-india/
-topsy_short_url:
-  - http://u.sbhat.me/dWckDL
+
 arkayne-cache-post:
   - |
     

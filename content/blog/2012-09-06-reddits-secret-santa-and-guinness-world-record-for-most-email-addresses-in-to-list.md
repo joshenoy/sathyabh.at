@@ -4,8 +4,7 @@ author: sathya
 type: post
 date: 2012-09-06T16:08:32+00:00
 url: /2012/09/06/reddits-secret-santa-and-guinness-world-record-for-most-email-addresses-in-to-list/
-topsy_short_url:
-  - http://u.sbhat.me/OdshjI
+
 categories:
   - Life
 

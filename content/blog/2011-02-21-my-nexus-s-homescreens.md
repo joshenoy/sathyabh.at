@@ -4,8 +4,7 @@ author: sathya
 type: post
 date: 2011-02-21T17:20:38+00:00
 url: /2011/02/21/my-nexus-s-homescreens/
-topsy_short_url:
-  - http://u.sbhat.me/f77YSU
+
 arkayne-cache-post:
   - |
     

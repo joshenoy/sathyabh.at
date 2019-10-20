@@ -4,8 +4,7 @@ author: sathya
 type: post
 date: 2010-06-19T14:00:48+00:00
 url: /2010/06/19/of-comatose-blogs-vacations/
-topsy_short_url:
-  - http://bit.ly/choTwk
+
 arkayne-cache-post:
   - |
     

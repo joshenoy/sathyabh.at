@@ -4,8 +4,7 @@ author: sathya
 type: post
 date: 2012-10-07T17:57:01+00:00
 url: /2012/10/07/the-case-of-the-expanding-exploding-iphone-3gs-battery/
-topsy_short_url:
-  - http://u.sbhat.me/QIyIsF
+
 categories:
   - Mobiles
 tags:

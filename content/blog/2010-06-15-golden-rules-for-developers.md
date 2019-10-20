@@ -4,8 +4,7 @@ author: sathya
 type: post
 date: 2010-06-15T00:27:56+00:00
 url: /2010/06/15/golden-rules-for-developers/
-topsy_short_url:
-  - http://bit.ly/cDsweb
+
 arkayne-cache-post:
   - |
     

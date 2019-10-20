@@ -4,8 +4,7 @@ author: sathya
 type: post
 date: 2010-10-12T04:33:31+00:00
 url: /2010/10/12/two-months-on-im-soldiering-on/
-topsy_short_url:
-  - http://u.sbhat.me/dbpYqa
+
 arkayne-cache-post:
   - |
     

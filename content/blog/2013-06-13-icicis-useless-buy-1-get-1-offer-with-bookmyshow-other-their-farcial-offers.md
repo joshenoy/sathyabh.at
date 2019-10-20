@@ -4,8 +4,7 @@ author: sathya
 type: post
 date: 2013-06-13T13:12:03+00:00
 url: /2013/06/13/icicis-useless-buy-1-get-1-offer-with-bookmyshow-other-their-farcial-offers/
-topsy_short_url:
-  - http://u.sbhat.me/12pvAdN
+
 categories:
   - Life
 tags:

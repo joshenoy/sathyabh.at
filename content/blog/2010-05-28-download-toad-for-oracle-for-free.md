@@ -4,8 +4,7 @@ author: sathya
 type: post
 date: 2010-05-28T01:47:56+00:00
 url: /2010/05/28/download-toad-for-oracle-for-free/
-topsy_short_url:
-  - http://bit.ly/bJt36X
+
 arkayne-cache-post:
   - |
     

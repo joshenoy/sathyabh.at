@@ -4,8 +4,7 @@ author: sathya
 type: post
 date: 2010-11-30T20:50:47+00:00
 url: /2010/12/01/making-oracle-forms-use-jre-instead-of-jinitiator/
-topsy_short_url:
-  - http://u.sbhat.me/g7WwQK
+
 arkayne-cache-post:
   - |
     

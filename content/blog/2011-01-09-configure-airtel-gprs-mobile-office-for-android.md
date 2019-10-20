@@ -4,8 +4,7 @@ author: sathya
 type: post
 date: 2011-01-09T04:46:28+00:00
 url: /2011/01/09/configure-airtel-gprs-mobile-office-for-android/
-topsy_short_url:
-  - http://u.sbhat.me/fHcKUS
+
 arkayne-cache-post:
   - |
     

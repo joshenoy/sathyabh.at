@@ -4,8 +4,7 @@ author: sathya
 type: post
 date: 2011-02-04T10:35:11+00:00
 url: /2011/02/04/websense-redirect-my-first-chrome-extension/
-topsy_short_url:
-  - http://u.sbhat.me/ibc1iF
+
 arkayne-cache-post:
   - |
     

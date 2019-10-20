@@ -4,8 +4,7 @@ author: sathya
 type: post
 date: 2010-02-23T11:57:41+00:00
 url: /2010/02/23/get-your-iphone-in-india-for-99-rs-4500-only/
-topsy_short_url:
-  - http://bit.ly/adEj28
+
 arkayne-cache-post:
   - |
     

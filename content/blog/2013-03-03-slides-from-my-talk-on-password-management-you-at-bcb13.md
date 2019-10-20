@@ -4,8 +4,7 @@ author: sathya
 type: post
 date: 2013-03-03T12:19:20+00:00
 url: /2013/03/03/slides-from-my-talk-on-password-management-you-at-bcb13/
-topsy_short_url:
-  - http://u.sbhat.me/14ggzqO
+
 categories:
   - Computing
 tags:

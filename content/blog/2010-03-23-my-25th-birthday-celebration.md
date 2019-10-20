@@ -4,8 +4,7 @@ author: sathya
 type: post
 date: 2010-03-22T21:03:34+00:00
 url: /2010/03/23/my-25th-birthday-celebration/
-topsy_short_url:
-  - http://bit.ly/980xqq
+
 arkayne-cache-post:
   - |
     

@@ -5,8 +5,7 @@ author: sathya
 type: post
 date: 2010-12-21T19:55:27+00:00
 url: /2010/12/22/how-enterprise-applications-are-developed-work/
-topsy_short_url:
-  - http://u.sbhat.me/ibzcj9
+
 arkayne-cache-post:
   - |
     

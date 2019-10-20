@@ -4,8 +4,7 @@ author: sathya
 type: post
 date: 2007-06-10T13:46:24+00:00
 url: /2007/06/10/its-all-over/
-topsy_short_url:
-  - http://u.sbhat.me/qRUEwZ
+
 arkayne-cache-post:
   - |
     

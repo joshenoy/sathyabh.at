@@ -4,8 +4,7 @@ author: sathya
 type: post
 date: 2011-07-14T06:18:16+00:00
 url: /2011/07/14/mugen-extended-battery-for-the-nexus-s-review/
-topsy_short_url:
-  - http://u.sbhat.me/pfdftI
+
 arkayne-cache-post:
   - |
     

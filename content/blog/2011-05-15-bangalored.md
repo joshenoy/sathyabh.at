@@ -4,8 +4,7 @@ author: sathya
 type: post
 date: 2011-05-15T15:46:51+00:00
 url: /2011/05/15/bangalored/
-topsy_short_url:
-  - http://u.sbhat.me/khJdOZ
+
 arkayne-cache-post:
   - |
     

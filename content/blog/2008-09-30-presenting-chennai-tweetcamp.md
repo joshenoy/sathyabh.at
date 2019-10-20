@@ -11,8 +11,7 @@ arkayne-cache-post:
     
 arkayne-time-post:
   - "1315866686"
-topsy_short_url:
-  - http://u.sbhat.me/qWmeaS
+
 categories:
   - Events
   - Life

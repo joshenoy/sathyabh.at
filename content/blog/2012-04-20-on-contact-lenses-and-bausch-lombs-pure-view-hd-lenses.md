@@ -4,8 +4,7 @@ author: sathya
 type: post
 date: 2012-04-20T08:24:28+00:00
 url: /2012/04/20/on-contact-lenses-and-bausch-lombs-pure-view-hd-lenses/
-topsy_short_url:
-  - http://u.sbhat.me/JTvdcP
+
 categories:
   - Life
 tags:

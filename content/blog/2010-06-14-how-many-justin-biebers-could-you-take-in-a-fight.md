@@ -4,8 +4,7 @@ author: sathya
 type: post
 date: 2010-06-14T03:33:10+00:00
 url: /2010/06/14/how-many-justin-biebers-could-you-take-in-a-fight/
-topsy_short_url:
-  - http://bit.ly/8Zku9j
+
 arkayne-cache-post:
   - |
     

@@ -11,8 +11,7 @@ arkayne-cache-post:
     
 arkayne-time-post:
   - "1325612325"
-topsy_short_url:
-  - http://u.sbhat.me/o4oQKC
+
 categories:
   - Life
 tags:

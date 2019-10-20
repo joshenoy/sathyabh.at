@@ -4,8 +4,7 @@ author: sathya
 type: post
 date: 2010-06-29T08:07:08+00:00
 url: /2010/06/29/the-getaway-part-1-coming-together-of-the-plantm/
-topsy_short_url:
-  - http://bit.ly/ag43M2
+
 arkayne-cache-post:
   - |
     

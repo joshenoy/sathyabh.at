@@ -4,8 +4,7 @@ author: sathya
 type: post
 date: 2010-10-11T22:06:02+00:00
 url: /2010/10/12/creating-and-editing-parameterized-queries-in-excel-2007/
-topsy_short_url:
-  - http://u.sbhat.me/bgWPhQ
+
 arkayne-cache-post:
   - |
     

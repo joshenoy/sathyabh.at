@@ -4,8 +4,7 @@ author: sathya
 type: post
 date: 2012-02-17T05:18:23+00:00
 url: /2012/02/17/redbus-ins-long-weekend-reminder-mail/
-topsy_short_url:
-  - http://u.sbhat.me/zlUjlN
+
 categories:
   - Web
 tags:

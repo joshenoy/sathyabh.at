@@ -4,8 +4,7 @@ author: sathya
 type: post
 date: 2013-03-27T07:44:41+00:00
 url: /2013/03/27/closing-the-chapter/
-topsy_short_url:
-  - http://u.sbhat.me/10d9Ifo
+
 categories:
   - Life
 tags:
