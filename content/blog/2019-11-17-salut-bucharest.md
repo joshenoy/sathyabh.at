@@ -2,8 +2,8 @@
 title: Salut Bucharest
 author: sathya
 type: post
-date: 2019-11-17T04:51:13+00:00
-url: /2019/11/17/salut-bucharest/
+date: 2020-01-08T04:51:13+00:00
+url: /2020/01/08/salut-bucharest/
 categories:
   - Life
 tags:
@@ -33,7 +33,7 @@ Let's take on them one by one:
 
 ### Why Romania?
 
-To which I say why not? I've been looking at moving out for a while now, and the US was never an option, especially with the current visa situation (and Jo not being able to work with a dependent visa). Europe is what Jo and me had been looking at since a while. I've been working with my colleagues from Bucharest, Romania since past couple of years and this gave me a chance to bring up a internal transfer request within my team. With the approvals in place, we were finally able to start the process. However, as with immigration & inter-country transfers, this was just the start of a long road of lots of paperwork and documentation shuttle.
+To which I say why not? I've been looking at moving out for a while now, and the US was never an option, especially with the current visa situation (and Jo not being able to work with a dependent visa). Europe is what Jo and I had been looking at since a while. I've been working with my colleagues from Bucharest, Romania since past couple of years and this gave me a chance to bring up a internal transfer request within my team. With the approvals in place, we were finally able to start the process. However, as with immigration & inter-country transfers, this was just the start of a long road of lots of paperwork and documentation shuttle.
 
 ### How did it happen?
 
@@ -66,14 +66,14 @@ Unfortunately, due to time constraints and a work visit that was to follow, I ha
 
 ### The Move and Settling In
 
-With visa and flight tickets confirmed - the next challenge came in about moving and what exactly to be shifted. Jo and me created a Trello board making a list of our possessions and what should be moved right now/later/never at all. We've been using Trello for organizing a lot of things which has made our lives easier and this was no different. They say a picture tells a thousand words so I'll get the below image do the talking.
+With visa and flight tickets confirmed - the next challenge came in about moving and what exactly to be shifted. Jo and I created a Trello board making a list of our possessions and what should be moved right now/later/never at all. We've been using Trello for organizing a lot of things which has made our lives easier and this was no different. They say a picture tells a thousand words so I'll get the below image do the talking.
 
 
 {{< fancybox "/img/" "trello.png" "Trello list" "Trello" >}}
 
-For finances, instead of using a forex card, I purchased a Niyo card. Why Niyo? Niyo was heavily recommended by several people. Niyo is eseentially a prepaid, standard debit card with support for forex payments. The difference is that Niyo doesn't charge any forex markup fees and uses the prevalent VISA exchange rate at the time of settlement. Notice the word "settlement"? Not all transactions and settled right away and you may see some minor differences (positive/negative) as the forex rates are never constant. I haven't seen any extra charges, so they have remained true to their word. I'm not sure what their business model is, since I got the card for free and we all know nothing free runs forever. However, so far my experience has been positive and I used the Niyo card for well over two months in Romania and in US.
+For finances, instead of using a forex card, I purchased a Niyo card. Why Niyo? Niyo was heavily recommended by several people. Niyo is eseentially a prepaid, standard debit card with support for forex payments. The difference is that Niyo doesn't charge any forex markup fees and uses the prevalent VISA exchange rate at the time of settlement. Notice the word "settlement"? Not all transactions and settled right away and you may see some minor differences (positive/negative) as the forex rates are never constant. I haven't seen any extra charges, so they have remained true to their word. I'm not sure what their business model is, since I got the card for free and we all know nothing free runs forever. However, so far my experience has been positive and I used the Niyo card for well over two months in Romania and in US. Immigration and moving to countries takes a significant toll on your finances and we could weather these thanks to [You Need A Budget (YNAB)](https://ynab.com/referral/?ref=qN3LcdZWyMfXKkyz&utm_source=customer_referral). With YNAB, we reserved a portion of money month on month with certain assumptions on how much capital is required for things like day to day expenses, rent, maintenance, security deposit - we arrived this with a little bit of research on the Internet and asking my colleagues for some rough numbers. I'll have a separate post on how YNAB has been a lifesaver at a later date.
 
-Next up, telephony: I have an Airtel Postpaid family plan which means both Jo and me have separate numbers with a unified billing. the plan we've had has generous data limits. I looked at enabling International Roaming with the IR Packs but roughly Rs 4,000 per **month** for 5GB of data and 500 minutes of calls to India, it was just too expensive and anyway without the roaming packs, you still get incoming SMS for free (which was the primary criteria for exploring this option), I decided against getting an International Roaming pack and decided to rely on Airport WiFi for booking Uber and buy a SIM card locally.
+Next up, telephony: I have an Airtel Postpaid family plan which means both Jo and I have separate numbers with a unified billing. the plan we've had has generous data limits. I looked at enabling International Roaming with the IR Packs but roughly Rs 4,000 per **month** for 5GB of data and 500 minutes of calls to India, it was just too expensive and anyway without the roaming packs, you still get incoming SMS for free (which was the primary criteria for exploring this option), I decided against getting an International Roaming pack and decided to rely on Airport WiFi for booking Uber and buy a SIM card locally.
 
 Once the final list of stuff to be packed was done, we spend few of the nights leading to the flight date organizing, bubble-wrapping and packing things. It wasn't till late till I realized that the free baggage allowance policies for airlines on routes to Europe is much lesser, as compared to routes to US - which means we ended up reshuffling and leaving behind some of the things I orginally intended to carry. And to make matters worse, some airlines (looking at you, Qatar Airways) have started weighing in the carry-on baggage as well and as a result, I ended up spending roughly Rs 12,000 in extra baggage fees ($30 per extra kilo, I ended up with 5 kilos over the limit, despite Qatar's generous allowance of giving me 2 kilos over the allowance for free). 
 
