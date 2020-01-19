@@ -1,5 +1,5 @@
 ---
-title: Hellforge, Remastered: Rebuilding my home desktop
+title: Hellforge, Remastered&#58; Rebuilding my home desktop
 author: sathya
 type: post
 date: 2020-01-19T04:51:13+00:00
