@@ -29,7 +29,7 @@ remained the same. Although the processor I had (Core i5 3470) wasn't exactly to
 Last year, my desktop developed a weird problem where the system would not POST if it was shut down. Resuming from sleep, however, was not a problem - if the system was shutdown (due to power outages/manually shut down via Windows), however, 9 times out of 10, the system would just not post.  Once a bluemoon, however, something would happen and it would start. Once running, everything would work just fine. Bizarre as it sounds, it did happen. I called this as the Bajaj Chetak problem. For those who didn't get the reference, this is how you would start a [Bajaj Chetak](https://en.wikipedia.org/wiki/Bajaj_Chetak).
 
 
-{{< youtube id="MPoFPv2seGs?t=7 >}}
+{{< youtube id='MPoFPv2seGs?t=7' >}}
 
 I was so annoyed by this problem that I bought a UPS so that the system never shuts down! I reached out to [Abhay](https://twitter.com/ALPHA_Ronin) so see if he could figure out what's happening - but alas, even Abhay couldn't figure out the problem.
 
