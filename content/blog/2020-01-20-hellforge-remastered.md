@@ -22,7 +22,7 @@ It's been more than 7 years since I last [built my home desktop](https:///sathya
 - motherboard
 - cabinet 
 
-remained the same. Although the processor I had (Core i5 3470) wasn't exactly top-of-the-line back then, it had still enough horsepower, especially coupled with the GPU (nVidia Geforce 970, replaced later with the Geforce 1080) to crunch anything that I could throw at it, VR included (check my [previous post](https://sathyasays.com/2017/11/05/a-brief-look-at-the-oculus-rift/) for my impressions of the Oculus Rift).
+remained the same. The processor I had i.e., the Core i5 3470) wasn't exactly top-of-the-line back then, it had still enough horsepower, especially coupled with the GPU (nVidia Geforce 970, replaced later with the Geforce 1080) to crunch anything that I could throw at it, VR included (check my [previous post](https://sathyasays.com/2017/11/05/a-brief-look-at-the-oculus-rift/) for my impressions of the Oculus Rift).
 
 ### Hellforge and the Bajaj Chetak Problem
 
