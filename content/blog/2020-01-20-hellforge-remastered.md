@@ -79,3 +79,34 @@ What's a build post without some pictures?
 {{< fancybox "/img/hellforge-remastered" "fully-assembled.jpg" "Components built" "Hellforge Remastered" >}}
 {{< fancybox "/img/hellforge-remastered" "initial-setup.jpg" "Initial setup without the monitor arm" "Hellforge Remastered" >}}
 {{< fancybox "/img/hellforge-remastered" "final-setup.jpg" "Final setup Remastered" >}}
+
+### Temps and stuff
+
+AMD processors are stereotyped for running extremely hot and I can see why - at idle my processor is running at a toasty 76 degrees Celcius. I asked for few friends around, and turns out I am the only one facing this. Since building the desktop, I've had some extended sessions of heavy CPU usage - be in terms of running virtual machines or 4+ hour sessions of Civilization 6 and I haven't run into any stability issues. But knowing that the temperatures are still so high is definitely something to worry about. I will be changing the stock cooler into something else, maybe a Noctua with a custom TIM, probably later in the year when summer is here.
+
+### Software setup
+
+Since I installed my existing SSD, I didn't do a fresh install of Windows and Windows just picked up where I had left off. From a functionality point of view, I didn't run into any issues, no BSODs or crashes even though it was a completely new system platform. That's pretty impressive. From a licensing perspective, and this was expected, Windows got deactivate due to the change in motherboard, processor and GPU. Usually, the inbuilt troubleshooter is good enough to detect and remediate this, but in my case it kept erroring out.
+
+{{< tweet 1196826396884123649 >}}
+
+After raising a ticket with Microsoft, they arranged for a callback, verified my new system purchase and re-activated Windows with a new product key. 
+
+Besides the standard Windows install, I have these extra utilities installed
+
+- [Ditto CLipboard manager](https://ditto-cp.sourceforge.io/) - for managing my clipboard history
+- The usual gaming launchers - Steam, Epic, Origin, Battle.net
+- The usual messaging tools - Slack, Discord, Telegram
+- [WMI Exporter](https://github.com/martinlindhe/wmi_exporter) - Yes, that _is_ a Prometheus exporter. I'm experimenting with Prometheus.
+- [HWMonitor](https://www.cpuid.com/softwares/hwmonitor.html) - Temperature measurement. WMI Exporter unfortunately doesn't seem to export temperatures as richly as HWMonitor does
+- [Wox](http://www.wox.one/) - Somewhat like Alfred for Windows. Not as feature packed but sufficient for now.
+- [Visual Studio Code](https://code.visualstudio.com/) - My current preferred editor. This blog post was written in VS Code too ;) 
+- [Project Aurora](https://www.project-aurora.com/) - Unified RBG lighting for many keyboards. Still in nascent stage but very promising
+- [cmder](https://cmder.net/) - Because current Windows terminal sucks and the one in preview is still very rough
+- [MobaXterm]https://mobaxterm.mobatek.net/) - My choice of ssh client. Supports tabs, many network tools, X server and many more. Highly recommended.
+- [ShareX](https://getsharex.com/) - Screencapture utility. Windows snipping manager is decent, this is miles better
+- [1Password](https://1password.com/) - Current password manager of choice. I have a 1Password Families plan.
+- [Cyberduck](https://cyberduck.io/) - Cyberduck lets me download my files from various cloud storage providers and use it to archive all docs to S3. 
+- [Spotify](https://www.spotify.com/) - For all my musical needs. 
+
+That's about it. Feel free to drop a comment or a question if you'd like to know more!
