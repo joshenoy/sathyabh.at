@@ -12,6 +12,9 @@ tags:
 
 It's been 7 months since I've been in Bucharest. The past couple of months I've been under quarantine and staying indoors. That aside, people kept asking me how's it been in Bucharest and how's life been in Bucharest, how different life is compared to Bangalore. 
 
+{{< fancybox "/img/" "bucharest.jpg" "Sunset at Bucharest" "Mărțișor" >}}
+
+
 Moving across the world is a huge endeavour and even though I've done my share of travels, moving and settling in Bucharest while smooth, experiencing day to day life in Bucharest took me by surprise. Here's a list of things that stood out:
 
 - Taxes are high. Get used to it. Nothing beats the shock in seeing the amount credited to your bank account being so tiny after seeing a high number on the offer letter
@@ -25,8 +28,11 @@ Moving across the world is a huge endeavour and even though I've done my share o
 - Corresponding to that, Indian stores are almost not to be seen. There's [one online shop](https://www.indianfood.ro/) - and if you look hard enough (and do a triple translation of your mother tongue - English - Romanian), you will mostly get the powders that you want, albeit in smaller pouches/quantities. Red chilli powder is difficult to get - you get paprika, which looks similar but doesn't have the same levels of heat.
 - Tap water is drinkable. My god. Cold + hot water on the same tap. My god. Mind blown. If you think that's a big deal, try doing the dishes when the water is colder than ice.
 - Public transport is hit and miss. I stay close to the office, so I can walk to work. There are buses, trams, and subway/metro and the metro is the preferred way to get around. Metro coverage is not that high, and most people use their cars when possible. Uber's around as well and unlike in India where you're most likely to be called asking which way to go, only to be cancelled - here it's been pretty seamless, albeit I have seen relatively high wait times. But, they do come, unlike back home.
+- Romanians love their coffee(espresso, more than anything) and it shows. There's lot of speciality cafes and it's not uncommon to see espresso machines and speciality coffee everywhere - even at small supermarkets. 
+- Beer is plenty and cheap. Often cheaper than cola/soft drinks. As with coffee, most supermarkets will have beer, whiskey and other spirits. The Romanian equivalent of local liquor comes in two different forms - the Pălincă and Țuică. Both are made from fermented plums with the pălincă having much, much higher alcohol percentage (60% vs 40%). During the winter here, nothing warms you up like a Pălincă shot. 
+- Romanians are infamous for being bad(read rash) drivers, and you'll experience it first-hand when you take an Uber from the Airport. There is one exception however: no matter how fast they are going, at the slightest indication of a pedestrian crossing, even from a mile away. Rewiring my brain to tell me that I can cross at the zebra crossing without worry took a long time and I still haven't gotten over that.
+- There's a good number of parks, small and large. I love this aspect and it doesn't make me miss J.P. Nagar.
 - Bureaucracy is a pain. There's a lot of bureaucracy involved [pre-immigration](https://sathyabh.at/2020/01/08/salut-bucharest/), and till you get your residency permit and your loved one over, be prepared to continue doing paperwork. 
-
 ### The Resident Permit pain
 
 Expanding upon the last Unlike the US, in Romania (and I believe in other parts of Europe as well) your visa is valid for a fairly short period and you're expected to apply for a resident permit card. The resident part grants you entry into the state and has different validity periods. The resident permit also works as your identity and address proof document. Immigrants are legally obligated to have the address updated when you change where you stay. Now, to get the id card there's a process to be followed which involves a bunch of document submission and about a month's wait from the time you submit. However, till you get the resident permit, you will not get your id number (aka CNP/Cod Numeric Personal) - which is required for almost everything - from opening a bank account to applying for an internet connection and more. In fact, during my first week in Bucharest, I spent like 3 days visiting various banks, asking if they would open a bank account without a CNP. Some tried their best and failed, others flat out rejected. Ultimately, the manager at Banca Transylvania opened a bank account for me using my passport.
